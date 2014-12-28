@@ -1,0 +1,7 @@
+NNP Canada
+JJ Many
+NN dollar
+
+VBG existing
+CD four
+NNS facilities

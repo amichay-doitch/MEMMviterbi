@@ -1,0 +1,12 @@
+IN In
+DT an
+NNP Oct.
+CD 19
+NN review
+IN of
+
+DT The
+NN Misanthrope
+IN at
+NNP Chicago
+POS 's

@@ -1,0 +1,8 @@
+general info:
+log linear: loss function, derivative of loss function (f_prime)
+viterbi: viterbi Algorithm - tagger
+viterbiDict: viterbi Algorithm - tagger, also tag words from tags.table in their known tag (faster viterbi)
+utils: file2sentences, scalar_product, probability calculator (with respect to given vector v)
+features: feature vector creator
+common_words - statistical analysis, find common words with only one tag from the train set
+expert_knowledge - find common "couple of words" and the tags that seen after them
